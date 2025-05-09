@@ -1,4 +1,4 @@
-### PYTHON
+## PYTHON
 # 🐍 Python Projeleri
 
 Merhaba ve hoş geldiniz!  
