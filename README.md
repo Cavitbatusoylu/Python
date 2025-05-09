@@ -49,9 +49,5 @@ Python öğrenme sürecim, her yeni projeyle daha da eğlenceli hale geldi. Kod 
 - **Makine öğrenmesi**: Yapay zeka modelleri eğiterek, gerçek dünya verisi üzerinde çalıştım.
 - **Oyun programlama**: Oyun mantığı ve etkileşimli kullanıcı arayüzleri tasarladım.
 
-## 📝 Kurulum
-
-Projeyi yerel makinenize klonlamak için şu komutu kullanabilirsiniz:
-
 ```bash
 git clone https://github.com/kullaniciadi/python-projeleri.git
